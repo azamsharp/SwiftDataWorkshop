@@ -23,6 +23,10 @@ Get started with the fundamentals of SwiftData:
 
 Dive deeper into SwiftData by understanding and setting up relationships between your data entities. Learn about dynamic queries for efficient data handling.
 
+## Migrations 
+
+You will learn how to perform simple, lightweight migrations in SwiftData. Migrations allow you to change the structure/schema of your database. You are also going to get an overview of complex migrations. 
+
 ### Testing 
 
 Ensure the reliability of your SwiftData implementation with robust testing strategies:
