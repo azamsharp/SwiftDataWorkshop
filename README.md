@@ -8,6 +8,9 @@ Before diving into the SwiftData Workshop, make sure you're equipped with the fo
 - Basic understanding of SwiftUI.
 - Xcode 15.x installed on your system.
 
+### Project (Source Code)
+- [Download the Starter Project](/resources/BudgetAppWorkshop-Starter.zip) 
+
 ### Fundamentals 
 
 Get started with the fundamentals of SwiftData:
@@ -41,6 +44,3 @@ Explore seamless integration with iCloud for data synchronization across devices
 - Configure iCloud settings for your SwiftData application.
 - Troubleshoot common iCloud errors for smoother operation.
 
-### Next Steps 
-
-Ready to enhance your SwiftData skills further? Enroll in the [SwiftData Bootcamp](https://azamsharp.teachable.com/p/swiftdata-bootcamp) for comprehensive training.
