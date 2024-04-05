@@ -10,6 +10,7 @@ Before diving into the SwiftData Workshop, make sure you're equipped with the fo
 
 ### Project (Source Code)
 - [Download the Starter Project](/resources/BudgetAppWorkshop-Starter.zip) 
+- [Download the Final Project](/resources/BudgetAppWorkshop-final.zip)
 
 ### Fundamentals 
 
